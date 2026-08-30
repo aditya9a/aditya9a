@@ -131,7 +131,9 @@ Core Principle:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya9a&theme=github-dark&area=true&area_color=00FF41&line=FF0080&point=00FFFF&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+
+![GitHub Activity Graph](https://raw.githubusercontent.com/aditya9a/aditya9a/output/activity-graph.svg)
+
 </div>
 
 ---
